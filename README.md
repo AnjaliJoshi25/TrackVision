@@ -21,11 +21,3 @@ TrackVision is an innovative Smart Attendance System developed with Python and O
 
 ## Contributions
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve TrackVision.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-Special thanks to the contributors and open-source community for their valuable contributions and support.
-
-For any inquiries or issues, please contact [your email address].
